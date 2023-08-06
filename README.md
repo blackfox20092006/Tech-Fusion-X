@@ -16,7 +16,7 @@ Cách để chạy phần mềm.
 
 ---
 
-Nó có thể dạy dưới dạng application
+Có thể dạy dưới dạng application (hiện tại sản phẩm vẫn còn đang phát triển chưa phải là phần mềm chính thức)
 
     - Sau khi chạy server reactjs mở file electron-app bằng terminal
 
