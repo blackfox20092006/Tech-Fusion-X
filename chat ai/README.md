@@ -1,0 +1,1 @@
+Hiện tại, chức năng Chatbox tích hợp AI trên bộ data có sẵn nhóm em vẫn đang tìm tòi phương pháp tối ưu nhất và phương án liên tục học hỏi kiến thức mới của model, nhóm em đã cơ bản xây dựng được 1 model, chúng em sẽ cố gắng phát triển và nâng cấp thêm sớm nhất có thể ạ.
