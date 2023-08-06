@@ -7,7 +7,9 @@ Cách để chạy phần mềm.
         npm install @mui/icons-material
         npm install @mui/joy @emotion/react @emotion/styled
         npm install @fontsource/inter
-
+        npm install react
+        npm install electron
+        
     Bước 2: Mở thư mục tfx-app/src (dưới dạng terminal)
 
     Bước 3: chạy với lệnh npm start hoặc pnpm start
@@ -31,5 +33,7 @@ Nó có thể dạy dưới dạng application
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
