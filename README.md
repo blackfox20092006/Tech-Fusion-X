@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://i.ibb.co/C5D6Xdf/tfx.png" width="600" height="300"/>
+</div>
+
+---
+
 Cách để chạy phần mềm.
 
     Bước 1: Cài các thư viện cần thiết
