@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "age": 25,
+      "email": "nguyenvana@gmail.com",
+      "address": "Hà Nội"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị B",
+      "age": 32,
+      "email": "tranthib@gmail.com",
+      "address": "Hải Phòng"
+    },
+    {
+      "id": 3,
+      "name": "Lê Minh C",
+      "age": 19,
+      "email": "leminhc@gmail.com",
+      "address": "Đà Nẵng"
+    }
+]
